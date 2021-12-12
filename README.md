@@ -1,26 +1,34 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# [![4Geeks Logo](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16 "4Geeks Logo")](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16 "4Geeks Logo") Counting Repeated Words - Js Exercise.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
+## To-Dos:
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
+- Create a Javascript file.
+- Clean the string (no uppercase, no comma...).  
+- Count all the repeated words in the given string.
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
+### Fundamentals
+This exercise covers the following fundamentals:
+1. Variables.
+2. Loops.
+3. Arrays.
+4. replace() method.
+5. splice() method.
 
-## What to do next?
 
-Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+------------
+
+
+## How can i preview the project?
+
+Use the following command at the terminal:
 
 ```sh
-$ pip3 install flask && python3 server.py
+$ node index.js
 ```
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+------------
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+### About Me:
+
+Github: [LeyCod](http://https://github.com/LeyCod "LeyCod")
+Linkedin: [Emmanuel L. Guacache R.](http://https://www.linkedin.com/in/emmanuelleyan/ "Emmanuel Leyan Guacache Rodriguez")
